@@ -8,4 +8,4 @@
 4. 可迁移性高，可迁移到多种鼠标移动方式场景。
 
 # 效果
-![image]([https://github.com/MaiEmily/map/blob/master/public/image/20190528145810708.png](https://github.com/TKazer/BezierMouseMove/blob/master/DemoGIF/Demo.gif))
+![image](https://github.com/TKazer/BezierMouseMove/blob/master/DemoGIF/Demo.gif)
