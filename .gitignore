@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+/.vs/BezierMouseMove
+/BezierMouseMove/x64/Debug
+/x64/Debug
